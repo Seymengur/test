@@ -1,0 +1,1 @@
+print("İşte bu be")
